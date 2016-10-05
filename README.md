@@ -56,4 +56,5 @@ The courses comprising the Data Science Specialization are:
 
 courseDescripTop
 
+Git is easy. Git is fun. Thanks Linus!
 [jhu]: http://www.jhu.edu
